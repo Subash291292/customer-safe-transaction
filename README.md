@@ -145,10 +145,6 @@ GET /api/transactions/get/customer/{id}
 
 ## How to Test
 
-### Postman Collection
-
-Import the included [CustomerTransactionAPI.postman\_collection.json](./CustomerTransactionAPI.postman_collection.json) into Postman.
-
 ### Sample Test Flow
 
 1. Submit customer data with POST `/api/transactions`
